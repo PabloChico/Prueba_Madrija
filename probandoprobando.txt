@@ -2,13 +2,17 @@ Hola quetal?
 1
 Venga tontarias
 a
+AQui meto un error
 2
 Mas tonterias
 b
+Aqui otro
 3
 c
+Otro más porque sí
 4
 Un último error
 d
-Esto lo hice con el primero
+
+
 
